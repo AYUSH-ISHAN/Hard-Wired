@@ -55,6 +55,4 @@ python3 gesture.py
      <a href="https://github.com/AYUSH-ISHAN">
     <img src="https://avatars.githubusercontent.com/u/77822265?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Ishan</b></sub></a><br />
 	</td>
-
-
 </table>
